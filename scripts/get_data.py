@@ -13,7 +13,8 @@ from typing import Dict, Union
 # A list of plugin IDs to use
 PLUGIN_IDS: list = [
     "dashboard",
-    "gcodeleveling"
+    "gcodeleveling",
+    "translatemodel"
 ]
 
 DATA_URL: str = "https://data.octoprint.org/export/"

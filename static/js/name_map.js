@@ -1,4 +1,5 @@
 var names = {
     "gcodeleveling": "Gcode Leveling",
-    "dashboard": "Dashboard"
+    "dashboard": "Dashboard",
+    "translatemodel": "Translate Model"
 }
